@@ -8,4 +8,4 @@ Git changes branch hush.
 Creating a new branch is quick && simple.
 Merge no Fast Forward test.
 Merge no Fast Forward test.
-
+issue-101 test.
