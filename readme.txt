@@ -9,3 +9,5 @@ Creating a new branch is quick && simple.
 Merge no Fast Forward test.
 Merge no Fast Forward test.
 issue-101 test.
+Bug test.
+Bug test dev.
